@@ -8,23 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4500&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Inovação;Criando+Experiências+Únicas;Transformando+Ideias;Código+%2B+Criatividade" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/gabriel-palmieri12" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%237A00FF?style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>
-  </a>
-  &nbsp;
-  <a href="mailto:gabriel1208.palmieri@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=black"/>
-  </a>
-  &nbsp;
-  <a href="https://gabriel-palmieri.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=react&logoColor=white&color=black"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/palmitex">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&color=black"/>
-  </a>
-</div>
+
 
 <div align="center">
   <br>
@@ -41,14 +25,17 @@ interface Developer {
     role: string;
     location: string;
     knowledge: string[];
-    currentlyLearning: string[];
+    languages: string[];
+    Hobbies: string;
 }
 
 const gabriel: Developer = {
     name: "Gabriel Palmieri",
     role: "Desenvolvedor Full Stack",
     location: "São Paulo, Brasil",
-    knowledge: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"]
+    knowledge: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],
+    languages: ["Português(língua nativa), Inglês(Intermediario)"]
+    Hobbies: "programming, games, Sports"
 };
 ```
 
