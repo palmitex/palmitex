@@ -34,7 +34,7 @@ const gabriel: Developer = {
     role: "Desenvolvedor Full Stack",
     location: "São Paulo, Brasil",
     knowledge: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],
-    languages: ["Português(língua nativa), Inglês(Intermediario)"]
+    languages: ["Português(língua nativa), Inglês(Intermediario)"],
     Hobbies: "programming, games, Sports"
 };
 ```
