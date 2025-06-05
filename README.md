@@ -56,8 +56,8 @@ const gabriel: Developer = {
 
 <div align="center">
   
-  <a href="https://github.com/palmitex/projeto-financias" target="_blank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=palmitex&repo=projeto-financias&hide_border=true&title_color=9D36F7&icon_color=9D36F7&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/palmitex/Saldo_Verde" target="_blank">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=palmitex&repo=Saldo_Verde&hide_border=true&title_color=9D36F7&icon_color=9D36F7&text_color=c9d1d9&bg_color=0d1117" />
   </a>
   <a href="https://github.com/palmitex/NeoBank" target="_blank">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=palmitex&repo=NeoBank&hide_border=true&title_color=9D36F7&icon_color=9D36F7&text_color=c9d1d9&bg_color=0d1117" />
