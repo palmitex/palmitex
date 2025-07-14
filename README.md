@@ -83,9 +83,3 @@ const gabriel: Developer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7A00FF&height=120&section=footer&animation=twinkling&fontAlignY=65"/>
 </div>
-
-<br>
-
-<div align="center">
-  ⭐️ Não se esqueça de deixar uma estrela nos projetos que você gostar! ⭐️
-</div>
