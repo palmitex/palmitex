@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4500&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Inovação;Criando+Experiências+Únicas;Transformando+Ideias;Código+%2B+Criatividade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4500&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Inovação;Transformando+Ideias;Código+%2B+Criatividade" alt="Typing SVG" />
 </div>
 
 
@@ -50,6 +50,14 @@ const gabriel: Developer = {
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=palmitex&show_icons=true&count_private=true&hide_border=true&title_color=9D36F7&icon_color=9D36F7&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmitex&layout=compact&hide_border=true&title_color=9D36F7&text_color=c9d1d9&bg_color=0d1117" />
+  
+  <div style="display: inline-block">
+    <img src="https://komarev.com/ghpvc/?username=palmitex&style=for-the-badge&color=9D36F7" alt="Visualizações do Perfil" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/palmitex?style=for-the-badge&color=9D36F7" alt="Seguidores" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/palmitex?style=for-the-badge&color=9D36F7" alt="Estrelas" />
+  </div>
 </div>
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45"> Projetos em Destaque
@@ -73,18 +81,11 @@ const gabriel: Developer = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&color=gradient&customColorList=6,11,20"/>
-  
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/palmitex/count.svg" alt="Contador de Visitantes" style="height: 40px; border-radius: 10px; margin: 10px;"/>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
-  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7A00FF&height=120&section=footer&animation=twinkling&fontAlignY=65"/>
 </div>
 
-⭐️ Não se esqueça de deixar uma estrela nos projetos que você gostar! ⭐️
+<br>
 
+<div align="center">
+  ⭐️ Não se esqueça de deixar uma estrela nos projetos que você gostar! ⭐️
+</div>
